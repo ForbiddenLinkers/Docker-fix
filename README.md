@@ -1,7 +1,7 @@
 ## Sideload
 
 ### Speical Credits
-#### Thanks to Aman Pandey for his docker iamge
+#### Thanks to Aman Pandey for his docker image
 
 ## Deploy to heroku 
 # SpeedoBøt
