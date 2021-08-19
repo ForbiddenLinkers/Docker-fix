@@ -1,7 +1,7 @@
 {
   "name": "Speedo",
-  "description": "A Userbot Based On Pyrogram.",
-  "logo": "#TODO",
+  "description": "A Userbot Based On Pyrogram And Telethon. Note if You want to use telethon then fill required fill if only pyrogram then fill pyrogram required feilds if both fill all feilds",
+  "logo": "https://telegra.ph/file/f46b11140c307df13750d.jpg",
   "keywords": [
     "telegram",
     "telethon",
