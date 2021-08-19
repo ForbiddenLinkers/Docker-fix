@@ -103,5 +103,11 @@
       "description": "String Session, Run string_gen.py to get String Session.",
       "value": ""
     }
-  }
+  },
+    "addons": [{
+    "plan": "heroku-postgresql",
+    "options": {
+      "version": "12"
+    }
+  }],
 }
