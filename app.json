@@ -27,6 +27,16 @@
       "value": "",
       "required": false
     },
+    "PMPERMIT_PIC": {
+      "description": "Add telegraph link for PMPERMIT pic or video",
+      "value": "",
+      "required": false
+    },
+    "YOUR_NAME": {
+      "description": "Give Any Name",
+      "value": "",
+      "required": false
+    },
     "MONGO_DB": {
       "description": "Create A Database In Mongodb And Get URL. Make Sure To Enter Correct URL!",
       "value": ""
