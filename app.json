@@ -22,6 +22,11 @@
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
+    "ALIVE_IMG": {
+      "description": "Add telegraph link for alive pic or video",
+      "value": "",
+      "required": false
+    },
     "MONGO_DB": {
       "description": "Create A Database In Mongodb And Get URL. Make Sure To Enter Correct URL!",
       "value": ""
