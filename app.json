@@ -76,7 +76,7 @@
       "required": false
     },
     "TELETHON_SESSION": {
-      "description": "Telethon session (coming soon) dont add now",
+      "description": "Telethon session If dont want add skip",
       "value": "",
       "required": false
     },
